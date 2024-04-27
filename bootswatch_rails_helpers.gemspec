@@ -4,10 +4,10 @@ Gem::Specification.new do |spec|
   spec.name        = "bootswatch_rails_helpers"
   spec.version     = BootswatchRailsHelpers::VERSION
   spec.authors     = ["Martin Mihaylov"]
-  spec.email       = ["namel3ssone@gmail.com"]
-  spec.homepage    = "TODO"
-  spec.summary     = "TODO: Summary of BootswatchRailsHelpers."
-  spec.description = "TODO: Description of BootswatchRailsHelpers."
+  spec.email       = ["martin@digitalkuker.com"]
+  spec.homepage    = "https://github.com/namel3ss/bootswatch_rails_helpers"
+  spec.summary     = "A collection of Rails view helpers to generate the visual elements from the Bootswatch themes."
+  spec.description = "A collection of Rails view helpers to generate the visual elements from the Bootswatch themes."
   spec.license     = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the "allowed_push_host"
@@ -15,7 +15,7 @@ Gem::Specification.new do |spec|
   spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
 
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "TODO: Put your gem's public repo URL here."
+  spec.metadata["source_code_uri"] = "https://github.com/namel3ss/bootswatch_rails_helpers"
   spec.metadata["changelog_uri"] = "TODO: Put your gem's CHANGELOG.md URL here."
 
   spec.files = Dir.chdir(File.expand_path(__dir__)) do
